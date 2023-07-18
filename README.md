@@ -56,16 +56,9 @@
   </div>
   <br/>
 <!--  most used languages   -->
-<!--   <a href="https://github.com/sunilrath101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilrath101&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
   <br/>  <br/>
 <!-- fro same color that stats have is "line=f97316" only change it  -->
-<a href="http://www.github.com/swarajkr7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunilrath101&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-<!-- <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sunilath101/-dull-letter-5131" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilath101&repo=UrbanCompany-clone&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />      -->
 
 
 <br/>
